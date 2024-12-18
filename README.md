@@ -22,10 +22,10 @@ The Client Application is a modern web application built with React and Vite, de
 You can view the live application [here](https://bgc-removal.netlify.app/).
 
 ## Installation
-1. Clone the repository:
+### Clone the repository:
    ```bash
    git clone https://github.com/pradyumn8/Bg.Removal.git
-    ```
+   ```
 ## Navigate into the project directory
    ```bash
    cd Bg.Removal
