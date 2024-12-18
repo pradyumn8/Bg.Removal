@@ -25,6 +25,9 @@ You can view the live application [here](https://bgc-removal.netlify.app/).
 1. Clone the repository:
    ```bash
    git clone https://github.com/pradyumn8/Bg.Removal.git
+    ```
+## Navigate into the project directory
+      ```bash
    cd Bg.Removal
     ```
 ## npm install
